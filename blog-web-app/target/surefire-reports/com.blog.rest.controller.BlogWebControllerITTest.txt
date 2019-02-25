@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.blog.rest.controller.BlogWebControllerITTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.881 s - in com.blog.rest.controller.BlogWebControllerITTest
