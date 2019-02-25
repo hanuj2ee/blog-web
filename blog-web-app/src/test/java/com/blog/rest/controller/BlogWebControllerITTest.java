@@ -28,9 +28,9 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest(classes= BlogWebApplication.class)
 public class BlogWebControllerITTest {
 
-    public BlogWebService service;
+    private BlogWebService service;
 
-    public MockMvc mvc;
+    private MockMvc mvc;
 
     @Mock
     private PostRepository postRepository;
